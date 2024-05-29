@@ -46,11 +46,14 @@ or review page: https://www.amazon.com/product-reviews/B01H6GUCCQ
 ![Example Image](./images/review_page.png "Review page Example Image")
 
 
-# Bonus
+# Part 2 (Bonus?)
 ## IMDB Review Sentiment Analysis
-I also wanted to cover Deep neural networks part with NLP
+Since model training was pretty simple in the first part,
+I wanted to cover more with Deep neural networks in NLP area.
 
-So I took IMDB review sentiment analysis problem, to try to improve model with deep learning (with comparison with ML model as well)
+Theoretically it comes from "Minimal+ requirements"
+
+So I took IMDB review sentiment analysis problem, to try to improve model with deep learning (with comparison with ML model as well).
 I also tried to play with transformer architecture, but included it as "bonus" because results are not perfect, and missing some time to properly implement it.
 
 I took this lesson as a starting point: https://colab.research.google.com/drive/1a7BAGT8zGmtq9YJ7Mfg64jl1fp2CvbIP?usp=sharing
