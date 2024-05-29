@@ -1,8 +1,30 @@
 # AI_Final_Project
 
-### Topic Selected - NLP
+## Topic Selected - NLP
 
 This project likely is fitting "Max" requirement - which covers usable end-2end system with an ML Model (that was not covered in class)
+It will be covered in Part2 of the project.
+
+## Part 1 
+## IMDB Review Sentiment Analysis
+I wanted to investigate NLP sentiment analysis problem first.
+
+I took this lesson as a starting point: https://colab.research.google.com/drive/1a7BAGT8zGmtq9YJ7Mfg64jl1fp2CvbIP?usp=sharing
+
+I've tried to implement all ways I could find for model training:
+- ML with TF-IDF vectorization
+- DL with LSTM
+- DL with LSTM & GloVe embeddings
+- Transfer learning with BERT
+
+### Model training:
+https://colab.research.google.com/drive/1pk2OrfHtQbF8-OW-luAxXfqV5fCm-L2j?usp=sharing
+
+
+## Part 2
+### Fake Review Detector
+
+Applying simple ML model, to train on fake amazon reviews dataset, and generating Chrome extension to detect fake reviews on Amazon.
 
 ### Model training:
 https://colab.research.google.com/drive/1-swZ2MeHqbjly16hT0CsD8x_sxHWYBPS?usp=sharing
@@ -44,19 +66,3 @@ from product page: https://www.amazon.com/dp/B01H6GUCCQ
 ![Example Image](./images/product_page.png "Product Page Example Image")
 or review page: https://www.amazon.com/product-reviews/B01H6GUCCQ
 ![Example Image](./images/review_page.png "Review page Example Image")
-
-
-# Part 2 (Bonus?)
-## IMDB Review Sentiment Analysis
-Since model training was pretty simple in the first part,
-I wanted to cover more with Deep neural networks in NLP area.
-
-Theoretically it comes from "Minimal+ requirements"
-
-So I took IMDB review sentiment analysis problem, to try to improve model with deep learning (with comparison with ML model as well).
-I also tried to play with transformer architecture, but included it as "bonus" because results are not perfect, and missing some time to properly implement it.
-
-I took this lesson as a starting point: https://colab.research.google.com/drive/1a7BAGT8zGmtq9YJ7Mfg64jl1fp2CvbIP?usp=sharing
-
-### Model training:
-https://colab.research.google.com/drive/1pk2OrfHtQbF8-OW-luAxXfqV5fCm-L2j?usp=sharing
