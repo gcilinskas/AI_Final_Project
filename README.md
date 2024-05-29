@@ -33,7 +33,7 @@ https://colab.research.google.com/drive/1-swZ2MeHqbjly16hT0CsD8x_sxHWYBPS?usp=sh
 Built with flask. 
 https://github.com/gcilinskas/ai_fake_review_detector
 
-Endpoint Usage example:
+Endpoint Usage example[POST]:
 ```
 curl --location 'https://api.reviewpolice.com/predict' \
 --header 'Content-Type: application/json' \
