@@ -30,7 +30,7 @@ Clone repo: git@github.com:gcilinskas/extension_fake_review_detector.git
 
 Load folder as unpacked extension in Chrome:
 To load it, visit chrome://extensions/ (and enable developer mode if not enabled).
-Then click "Load unpacked" and select the "chrome_extension" folder.
+Then click "Load unpacked" and select the "extension_fake_review_detector" folder.
 https://medium.com/@aabroo.jalil/how-to-test-a-chrome-extension-locally-step-by-step-guide-852e4622d4c7
 
 Usage:
