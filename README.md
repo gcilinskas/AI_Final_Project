@@ -48,7 +48,10 @@ This is Chrome extension.
 https://github.com/gcilinskas/extension_fake_review_detector
 
 Installation:
-Clone repo: git@github.com:gcilinskas/extension_fake_review_detector.git
+Clone repo:
+```bash
+git@github.com:gcilinskas/extension_fake_review_detector.git
+```
 
 Load folder as unpacked extension in Chrome:
 To load it, visit chrome://extensions/ (and enable developer mode if not enabled).
