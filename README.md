@@ -35,6 +35,10 @@ https://medium.com/@aabroo.jalil/how-to-test-a-chrome-extension-locally-step-by-
 
 Usage:
 Whether review is fake or not, it will be displayed in chrome on amazon page, if extension is enabled.
+
+Make sure extension is enabled in settings:
+![Example Image](./images/extension.png "Extension Enabled Example Image")
+
 To test it once extension is loaded these pages can be used as example:
 from product page: https://www.amazon.com/dp/B01H6GUCCQ
 ![Example Image](./images/product_page.png "Product Page Example Image")
