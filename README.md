@@ -52,4 +52,4 @@ I also tried to play with transformer architecture, but included it as "bonus" b
 I took this lesson as a starting point: https://colab.research.google.com/drive/1a7BAGT8zGmtq9YJ7Mfg64jl1fp2CvbIP?usp=sharing
 
 ### Model training:
-https://colab.research.google.com/drive/1pk2OrfHtQbF8-OW-luAxXfqV5fCm-L2j#scrollTo=6ZlnpNZsLvm4
+https://colab.research.google.com/drive/1pk2OrfHtQbF8-OW-luAxXfqV5fCm-L2j?usp=sharing
